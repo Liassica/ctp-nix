@@ -95,9 +95,9 @@
     "rev": "ecd62f5a2b6230ba2d8fe080e31d870997c7a738"
   },
   "ghostty": {
-    "hash": "sha256-Y6RFften1/6+1xdhIzEh/E7FBJTwY5a8NH4301HbgOM=",
-    "lastModified": "2026-01-07",
-    "rev": "5a58926563ddacbde4a12b4a347464c2c6945393"
+    "hash": "sha256-XwUwWdBLyFwfyL9/kUhJaztTj+s3JShyc15YAA2HPaY=",
+    "lastModified": "2026-08-28",
+    "rev": "b0b03ccee7ae8f16b13bd4fdfe267616defdb2b7"
   },
   "gitui": {
     "hash": "sha256-DRK/j3899qJW4qP1HKzgEtefz/tTJtwPkKtoIzuoTj0=",
@@ -135,14 +135,14 @@
     "rev": "9f03f26fc10a00e00ec6b2ac2a41e44d16297548"
   },
   "hyprlock": {
-    "hash": "sha256-kgVlPaWeaH/p0qGc1+Lj2H6YlDAk5CemNo1FFF8ymZ8=",
-    "lastModified": "2025-06-02",
-    "rev": "f650895064ae80db7c0e095829fce83fd85d0b26"
+    "hash": "sha256-PDP4d+IaE8iYv3HnFuVScDt1iPe7qIepppwSgcm6iTY=",
+    "lastModified": "2026-06-28",
+    "rev": "ed42b541c0070d6deb3bf16de2d983aaccec9480"
   },
   "hyprtoolkit": {
-    "hash": "sha256-D05IJCPK/9jOfqti0dlhymLBPwLf/PFtkP2nR+F1DDk=",
-    "lastModified": "2026-04-05",
-    "rev": "2074fbefdaa73cfb996006f817a03d9d288aa38c"
+    "hash": "sha256-K12omxxlqUDnWaNgeH8cvHPmZBKkGR9H/NcKNoxv19o=",
+    "lastModified": "2026-08-07",
+    "rev": "7380fa3fe2f8666c87ed6f01888cb73a45358ffc"
   },
   "imv": {
     "hash": "sha256-4WOHc9k+NUsyFDKgDAyGfRtpFsx/KyOAE5kIv4gKhwM=",
@@ -165,9 +165,9 @@
     "rev": "798ad2e75a11766e9ba50e76e59aea6a81eb4866"
   },
   "limine": {
-    "hash": "sha256-ccD/6soFIJT4hUCFbbEhfOda10McAW+KtEDkVy5MXrk=",
-    "lastModified": "2026-05-05",
-    "rev": "01c564b7903280d12950acd19237774d07ad163c"
+    "hash": "sha256-4quZdgijooBlIevUpdwJXu/7eg32BQdHA21HqWIzFis=",
+    "lastModified": "2026-06-11",
+    "rev": "43d7027853c6f733bcea7e22968510915ba0da23"
   },
   "lsd": {
     "hash": "sha256-lf6VawCgK9VlKO+PAzPD/WqPjxoqw2j000b5ZlEXj/Y=",
@@ -205,19 +205,19 @@
     "rev": "815dfc6ea61f2746ff27b54ef425cfeb7b51dda8"
   },
   "nvim": {
-    "hash": "sha256-UUUoJpIYHJOe93w9+geBNN5f+6IkJFwjZWkGTr2IaJI=",
-    "lastModified": "2026-05-29",
-    "rev": "0303a7208dba448c459767486a38a6ec05c4216b"
+    "hash": "sha256-EVTNyE0tkPAAgp55sHjxEGtY25sSqSs9nmI4liPJxm4=",
+    "lastModified": "2026-08-09",
+    "rev": "edefef779ab08ce1a4a404713e3012b0d202bd35"
   },
   "obs": {
-    "hash": "sha256-Eb9P4ZWRHy0KjysWgL4F6jOq21yCl8E/hT+eZhTO/pA=",
-    "lastModified": "2026-04-05",
-    "rev": "94d317949c0f4c3e55b8ccc7f16890ce7ba3fc37"
+    "hash": "sha256-zFg7dgxLIK3K1KpLdEgphH2JpdMwVTovr+oKiAqdLEE=",
+    "lastModified": "2026-06-20",
+    "rev": "054a297d303a5bac4f1652a13b17d78a13201c0e"
   },
   "obsidian": {
-    "hash": "sha256-uB0a2nSZkHHf65xBYXyNh50vaAiqdEpKQVf3eXnCVlE=",
-    "lastModified": "2026-03-11",
-    "rev": "55aa9c9036a9df864593fdaedb2a227d3823fb06"
+    "hash": "sha256-UM2/5CkG75ABGlMI7r5sMbF0HlfMB161KyRdAHVBDrE=",
+    "lastModified": "2026-08-12",
+    "rev": "1316e03af5c31964116661ab08e7784bfa1d00b3"
   },
   "palette": {
     "hash": "sha256-hsy+GhuM4MSjnwGq1YJSLBFIbVm67SSdPRgObP00mxw=",
@@ -245,9 +245,9 @@
     "rev": "808adc3d7d5be6fc573d6be6e9c888cb96b5d6e6"
   },
   "rio": {
-    "hash": "sha256-m9yfFle1MWQvmXP4hp4xxkGgHjqHyRyrbKgGB36Kw/8=",
-    "lastModified": "2026-03-27",
-    "rev": "6c7e7f9ce7eeb1ae621beadd8f93641f6752c14d"
+    "hash": "sha256-o4UW/luCrHgewi53/nC3eLjSQMzMJG5c3rKAaTBtbe4=",
+    "lastModified": "2026-09-04",
+    "rev": "ebb70c9775c5df04239f3a5a231766a6e0adf7e5"
   },
   "rofi": {
     "hash": "sha256-81eeFjwM/haPjIEWkZPp1JSDwhWbWDAuKtWiCg7P9Q0=",
@@ -325,9 +325,9 @@
     "rev": "cbc9861bb9c40fad098cf55d4b53879e6f9a737c"
   },
   "yazi": {
-    "hash": "sha256-Og33IGS9pTim6LEH33CO102wpGnPomiperFbqfgrJjw=",
-    "lastModified": "2026-05-14",
-    "rev": "41f24ed142e34109a9a65a5dfe58c1b4eb6d2fd9"
+    "hash": "sha256-bwzEO8exoBwa19q+jnYjHkaamGl2mhfukIEhDfUCRGI=",
+    "lastModified": "2026-08-20",
+    "rev": "d62802be39210ea10e54b3e3b09735c6cb9e57c1"
   },
   "zathura": {
     "hash": "sha256-upyfc4OSx9xKUoM/JdRfuXiw38ffoSB/Utm2jpyXgy8=",
@@ -335,9 +335,9 @@
     "rev": "9f29c2c1622c70436f0e0b98fea9735863596c1e"
   },
   "zed": {
-    "hash": "sha256-+SO9W98LQbG6Oz5YStzdgYpVgT77pGZHaTsH3HhZr60=",
-    "lastModified": "2026-01-23",
-    "rev": "b54cb81708d06912d50e6bb9fd2fd2103b9dda25"
+    "hash": "sha256-844wZqnc3l8SNrSCbVlXr3uGXbVIjH/JQaurfa6DhFI=",
+    "lastModified": "2026-09-08",
+    "rev": "6fd105a51a0a0ba96579c86df0f58193a51001a3"
   },
   "zsh-syntax-highlighting": {
     "hash": "sha256-l6tztApzYpQ2/CiKuLBf8vI2imM6vPJuFdNDSEi7T/o=",
